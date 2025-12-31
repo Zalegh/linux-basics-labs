@@ -34,16 +34,12 @@ x : mot de passe (stocké ailleurs, dans /etc/shadow)
 
 1000 : GID principal
 
-User One : commentaire (GECOS) 
-
-Explication : champ GECOS, (Le champ **GECOS** est présent dans le fichier `/etc/passwd` sur les systèmes Linux/Unix).  
-Il contient des informations supplémentaires sur un utilisateur, comme son nom complet, son numéro de téléphone ou son bureau.
-
-Exemple
-aziz:x:1001:1001:Aziz zalegh,,,
-Utilité
-- Sert à la gestion des utilisateurs sur le système.
-- Permet à certaines commandes, comme `finger`, ou à des scripts, d’afficher des informations sur l’utilisateur.
+User One : commentaire (GECOS), (Le champ **GECOS** est présent dans le fichier `/etc/passwd` sur les systèmes Linux/Unix).  
+                                  Il contient des informations supplémentaires sur un utilisateur, comme son nom complet, son numéro de téléphone ou son bureau.
+                            Exemple :   aziz:x:1001:1001:Aziz zalegh,,,
+                            Utilité
+                              - Sert à la gestion des utilisateurs sur le système.
+                              - Permet à certaines commandes, comme `finger`, ou à des scripts, d’afficher des informations sur l’utilisateur.
 
 
 /home/user1 : répertoire personnel
