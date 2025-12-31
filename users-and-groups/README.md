@@ -15,7 +15,7 @@ Commande utilisée :
 ```bash ```
 cat /etc/passwd
 
-## Comprendre le fichier /etc/passwd
+# Comprendre le fichier /etc/passwd
 
 Chaque ligne du fichier `/etc/passwd` correspond à un utilisateur.
 
