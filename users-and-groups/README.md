@@ -7,3 +7,10 @@ Ce lab a pour objectif de comprendre :
 
 Les commandes seront ajoutées étape par étape.
 
+## Lister les utilisateurs existants
+
+Sous Linux, les utilisateurs sont définis dans le fichier `/etc/passwd`.
+
+Commande utilisée :
+```bash ```
+cat /etc/passwd
