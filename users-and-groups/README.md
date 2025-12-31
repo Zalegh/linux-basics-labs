@@ -22,3 +22,20 @@ Chaque ligne du fichier `/etc/passwd` correspond à un utilisateur.
 Exemple :
 
 user1:x:1000:1000:User One:/home/user1:/bin/bash
+
+
+# Signification des champs
+
+user1 : nom de l’utilisateur
+
+x : mot de passe (stocké ailleurs, dans /etc/shadow)
+
+1000 : UID (identifiant utilisateur)
+
+1000 : GID principal
+
+User One : commentaire (GECOS)
+
+/home/user1 : répertoire personnel
+
+/bin/bash : shell par défaut
