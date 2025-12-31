@@ -18,7 +18,7 @@ cat /etc/passwd
 # Comprendre le fichier /etc/passwd
 
 Chaque ligne du fichier `/etc/passwd` correspond à un utilisateur.
-
+ 
 Exemple :
 ```text```
 user1:x:1000:1000:User One:/home/user1:/bin/bash
