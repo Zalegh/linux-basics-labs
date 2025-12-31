@@ -36,7 +36,7 @@ x : mot de passe (stocké ailleurs, dans /etc/shadow)
 
 User One : commentaire (GECOS) 
 
-## Explication : champ GECOS, (Le champ **GECOS** est présent dans le fichier `/etc/passwd` sur les systèmes Linux/Unix).  
+### Explication : champ GECOS, (Le champ **GECOS** est présent dans le fichier `/etc/passwd` sur les systèmes Linux/Unix).  
 Il contient des informations supplémentaires sur un utilisateur, comme son nom complet, son numéro de téléphone ou son bureau.
 
 ### Exemple
