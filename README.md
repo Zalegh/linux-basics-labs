@@ -7,5 +7,5 @@ Il affiche la liste des utilisateurs actuellement connectés et le nombre total 
 ## Prérequis
 - Git Bash sur Windows ou un terminal Linux.
 - S'assurer que le script est exécutable :  
-```bash```
+```bash
 chmod +x monitor_users.sh
